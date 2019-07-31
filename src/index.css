@@ -18,3 +18,8 @@ h5,
 h6 {
   font-family: 'Crimson Text', serif;
 }
+
+a {
+  text-decoration-color: none;
+  color: black;
+}
