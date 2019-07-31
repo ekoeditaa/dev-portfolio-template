@@ -1,12 +1,5 @@
-# About
+## Who am I?
 
-## Hi there, thank you for visiting!
+I am Lorem ipsum dolor sit amet, quo virtute phaedrum cu. At splendide pertinacia usu. No vix quando graeci animal. Vis no hinc detraxit efficiantur. Inani partem inciderint ex his.
 
-My name is Eko.
-
-I love writing code and building things but more often than not
-I break things an systems instead.  
-You can find me on Github working on personal and open source projects.  
-I also write on Quora or Medium sometimes.  
-I enjoy good food, coffee, and travelling a lot.  
-Cheers!
+Nonumy principes at vel, natum moderatius percipitur ad qui. Erat prima torquatos sit at, est at perfecto platonem, vidit omnesque ocurreret id eos. Sit at enim aeque, est eu alterum nominavi offendit, mea ancillae percipit mnesarchum ad. Quas ceteros maluisset cum ea, ex minim dicant honestatis eos.
