@@ -10,4 +10,5 @@ export const MENU = [
   { name: 'Projects', value: 'projects' },
   { name: 'Work', value: 'work' },
   { name: 'Social', value: 'social' },
+  { name: 'Travels', value: 'travels' },
 ];

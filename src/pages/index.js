@@ -8,6 +8,7 @@ import about from './about.md';
 import projects from './projects.md';
 import social from './social.md';
 import work from './work.md';
+import travels from './travels.md';
 
 const pages = {
   index,
@@ -15,6 +16,7 @@ const pages = {
   projects,
   social,
   work,
+  travels,
 };
 
 export default pages;

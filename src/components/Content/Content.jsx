@@ -4,8 +4,8 @@ import pages from '../../pages';
 
 import './Content.css';
 
-const CodeBlock = require('./code-block');
-const ReactMarkdown = require('react-markdown');
+import CodeBlock from './code-block';
+import ReactMarkdown from 'react-markdown';
 
 function Content({ activePage }) {
   return (
