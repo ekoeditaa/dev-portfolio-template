@@ -44,4 +44,4 @@ CodeBlock.propTypes = {
   language: PropTypes.string,
 };
 
-export default CodeBlock;
+module.exports = CodeBlock;

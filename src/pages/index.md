@@ -8,6 +8,4 @@ I can write some code.
 function sayHelloToVisitor() {
   console.log('Hello you!');
 }
-
-sayHelloToVisitor();
 ```
