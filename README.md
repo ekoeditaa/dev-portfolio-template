@@ -83,8 +83,20 @@ The content of each menu can be edited in the corresponding markdown file.
 
 ## Deploying
 
+1. Change your `homepage` in `package.json` if you are not deploying to root.
+2. Build the bundle
+
 ```bash
 yarn build
+```
+
+3. Serve the file from a server.
+
+If you are deploying on Github Pages, `gh-pages` is integrated in this project.
+You just have to run
+
+```bash
+yarn deploy
 ```
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
